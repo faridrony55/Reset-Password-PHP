@@ -1,0 +1,28 @@
+[28-Apr-2021 13:22:21 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dailbgdj/public_html/e_management/db.php on line 7
+[28-Apr-2021 13:22:25 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dailbgdj/public_html/e_management/db.php on line 7
+[28-Apr-2021 13:22:25 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/dailbgdj/public_html/e_management/index.php on line 104
+[28-Apr-2021 13:22:25 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dailbgdj/public_html/e_management/index.php on line 105
+[28-Apr-2021 13:22:25 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/dailbgdj/public_html/e_management/index.php on line 118
+[28-Apr-2021 13:22:25 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dailbgdj/public_html/e_management/index.php on line 119
+[28-Apr-2021 13:22:31 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dailbgdj/public_html/e_management/db.php on line 7
+[28-Apr-2021 13:22:31 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/dailbgdj/public_html/e_management/index.php on line 104
+[28-Apr-2021 13:22:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dailbgdj/public_html/e_management/index.php on line 105
+[28-Apr-2021 13:22:31 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/dailbgdj/public_html/e_management/index.php on line 118
+[28-Apr-2021 13:22:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dailbgdj/public_html/e_management/index.php on line 119
+[28-Apr-2021 13:22:43 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dailbgdj/public_html/e_management/db.php on line 7
+[28-Apr-2021 13:22:43 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/dailbgdj/public_html/e_management/index.php on line 104
+[28-Apr-2021 13:22:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dailbgdj/public_html/e_management/index.php on line 105
+[28-Apr-2021 13:22:43 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/dailbgdj/public_html/e_management/index.php on line 118
+[28-Apr-2021 13:22:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dailbgdj/public_html/e_management/index.php on line 119
+[28-Apr-2021 13:22:45 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dailbgdj/public_html/e_management/db.php on line 7
+[28-Apr-2021 13:22:46 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dailbgdj/public_html/e_management/db.php on line 7
+[28-Apr-2021 13:25:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dailbgdj/public_html/e_management/singin.php on line 29
+[28-Apr-2021 13:26:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dailbgdj/public_html/e_management/singin.php on line 29
+[28-Apr-2021 14:19:16 America/New_York] PHP Notice:  Undefined index: resetpassword in /home/dailbgdj/public_html/e_management/password.php on line 18
+[28-Apr-2021 14:19:28 America/New_York] PHP Notice:  Undefined index: resetpassword in /home/dailbgdj/public_html/e_management/password.php on line 18
+[28-Apr-2021 14:21:48 America/New_York] PHP Notice:  Undefined index: resetpassword in /home/dailbgdj/public_html/e_management/password.php on line 18
+[28-Apr-2021 14:25:26 America/New_York] PHP Notice:  Undefined index: resetpassword in /home/dailbgdj/public_html/e_management/password.php on line 18
+[28-Apr-2021 14:25:35 America/New_York] PHP Notice:  Undefined index: reset in /home/dailbgdj/public_html/e_management/password.php on line 13
+[28-Apr-2021 19:28:06 America/New_York] PHP Notice:  Undefined index: resetpassword in /home/dailbgdj/public_html/e_management/password.php on line 18
+[29-Apr-2021 09:59:54 America/New_York] PHP Notice:  Undefined index: resetpassword in /home/dailbgdj/public_html/e_management/password.php on line 18
+[29-Apr-2021 11:55:56 America/New_York] PHP Notice:  Undefined index: resetpassword in /home/dailbgdj/public_html/e_management/password.php on line 18
